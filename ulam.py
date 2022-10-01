@@ -2,7 +2,8 @@ from math import sqrt
 from tkinter import font
 import pygame
 pygame.init()
-
+# print("")
+i = 0
 
 class Main:
     def __init__(self) -> None:
